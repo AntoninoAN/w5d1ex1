@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/tony/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/home/tony/Documents/AndroidTrainning/Trainning/W5d1ex01/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.8.1_68fd3ebf1aa7068986a1916c696f321e5b17fdfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/.android/build-cache/c13beefc1d05678abf4fad4f0b429e32f1c74e89/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/home/tony/Documents/AndroidTrainning/Trainning/W5d1ex01/app/build/intermediates/pre-dexed/debug/classes_67772cd4d3c81fd297a5c5da70bb56c39af92582.jar" />
+    </item>
+
+</items>
